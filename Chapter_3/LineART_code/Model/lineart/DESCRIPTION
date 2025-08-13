@@ -1,0 +1,15 @@
+Package: lbart
+Type: Package
+Title: A collection of BART models
+Version: 0.1.1
+Date: 2019-08-30
+Author: Pedro Santos <pedrosantos@utexas.edu>
+Maintainer: Questions and comments to <pedro.santos@mccombs.utexas.edu>
+Description: Implements a variety of models using BART priors
+License: GNU GPL v3.0
+Depends: Rcpp (>= 0.10.4), RcppArmadillo
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes
+LazyData: true
+RoxygenNote: 6.1.1
+Encoding: UTF-8
